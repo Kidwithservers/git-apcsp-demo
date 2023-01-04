@@ -1,2 +1,3 @@
 Hi, this is a text file!
 That now has a second line!
+This is line 3
